@@ -16,6 +16,7 @@ const introdata = {
     your_img_url: "https://avatars.githubusercontent.com/u/139219703?v=4", 
 };
 
+
 const dataabout = {
     title: "A bit about myself",
     aboutme:
